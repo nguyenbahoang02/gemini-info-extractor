@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Trần Văn Trà",
+    "chức vụ": [
+      "Thượng tướng",
+      "Thứ trưởng Bộ Quốc phòng",
+      "Ủy viên Thường vụ Quân ủy Trung ương",
+      "Tư lệnh Quân giải phóng Miền Nam",
+      "Phó Tư lệnh chiến dịch Hồ Chí Minh"
+    ]
+  },
+  {
+    "name": "Phan Huy Lê",
+    "chức vụ": [
+      "Giáo sư",
+      "Nhà giáo Nhân dân",
+      "Chuyên gia lịch sử Việt Nam",
+      "Chủ tịch Hội Khoa học Lịch sử Việt Nam (1990 - 2015)",
+      "Giải thưởng Hồ Chí Minh về Khoa học (2016)",
+      "Một trong tứ trụ của nền sử học Việt Nam"
+    ]
+  },
+  {
+    "name": "Phạm Công Trứ",
+    "chức vụ": ["Quốc lão", "Thái bảo", "Yên Quận công"]
+  },
+  { "name": "Nguyễn Bặc", "chức vụ": "Định Quốc Công" },
+  {
+    "name": "Nguyễn Hoàng",
+    "chức vụ": [
+      "Chúa Nguyễn đầu tiên",
+      "Sáng lập quốc",
+      "Chúa Tiên",
+      "Quốc chúa",
+      "Tổng Trấn Tướng Quân kiêm quản cả Xứ Quảng Nam và Xứ Thuận Hóa",
+      "Người đặt nền móng cho vương triều Nguyễn"
+    ]
+  },
+  {
+    "name": "Hoàng Minh Thảo",
+    "chức vụ": [
+      "Giáo sư",
+      "Nhà giáo nhân dân",
+      "Thượng tướng Quân đội nhân dân Việt Nam"
+    ]
+  },
+  {
+    "name": "Bùi Tín",
+    "chức vụ": [
+      "Phó Tổng biên tập báo Nhân dân",
+      "Đại tá Quân đội nhân dân Việt Nam"
+    ]
+  },
+  {
+    "name": "Ngô Quang Trưởng",
+    "chức vụ": [
+      { "tên": "Trung tướng", "thời gian": "1972-1975" },
+      { "tên": "Tư lệnh Quân đoàn I", "thời gian": "1972-1975" },
+      {
+        "tên": "Chỉ huy cao nhất trong trận đánh tái chiếm Thành cổ Quảng Trị",
+        "thời gian": "1972"
+      }
+    ]
+  },
+  {
+    "name": "Nguyễn Kim",
+    "chức vụ": [
+      "Thái sư",
+      "Nhân quốc công",
+      "Chưởng cơ doanh",
+      "Đại tướng quân",
+      "Tổng chỉ huy quân đội"
+    ]
+  },
+  {
+    "name": "Nguyễn Phúc Khoát",
+    "chức vụ": ["Chúa Nguyễn thứ 8", "Vua", "Võ vương"]
+  },
+  { "name": "Mạc Mậu Hợp", "chức vụ": "Hoàng đế" },
+  { "name": "Mạc Tuyên Tông", "chức vụ": "Hoàng đế" },
+  {
+    "name": "Trần Ích Tắc",
+    "chức vụ": [
+      "Hành khiển An phủ sứ Kinh Hồ",
+      "Tham tri chính sự",
+      "Thượng tướng Thái úy",
+      "Bình chương sự",
+      "Hồ Quảng Bình chương chính sự",
+      "Tể tướng nhà Nguyên"
+    ]
+  },
+  {
+    "name": "Phan Huy Ích",
+    "chức vụ": ["Quan đại thần", "Nhà ngoại giao", "Sứ thần"]
+  },
+  { "name": "Nguyễn Phúc Thái", "chức vụ": "Chúa Nguyễn thứ 5" },
+  { "name": "Phan Huy Chú", "chức vụ": "Học sĩ Hàn lâm viện" },
+  { "name": "Kiến Phúc", "chức vụ": "Hoàng đế" },
+  { "name": "Võ Chí Công", "chức vụ": "Chủ tịch nước" },
+  {
+    "name": "Nguyễn Khánh",
+    "chức vụ": [
+      "Nguyên thủ quốc gia (Quốc trưởng)",
+      "Thủ tướng",
+      "Tổng tư lệnh",
+      "Tổng Tham mưu trưởng",
+      "Đại tướng"
+    ]
+  },
+  {
+    "name": "Lê Đức Anh",
+    "chức vụ": [
+      "Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "Bộ trưởng Bộ Quốc phòng Việt Nam",
+      "Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam",
+      "Đại tướng Quân đội nhân dân Việt Nam"
+    ]
+  },
+  { "name": "Tự Đức", "chức vụ": "Hoàng đế" },
+  { "name": "Minh Mạng", "chức vụ": "Hoàng đế" },
+  {
+    "name": "Lê Duẩn",
+    "chức vụ": [
+      {
+        "tên": "Bí thư Thứ nhất Đảng Lao động Việt Nam",
+        "thời gian": "1960 - 1976"
+      },
+      {
+        "tên": "Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam",
+        "thời gian": "1976 - 1986"
+      }
+    ]
+  },
+  {
+    "name": "Võ Nguyên Giáp",
+    "chức vụ": [
+      "Đại tướng",
+      "Tổng Tư lệnh tối cao",
+      "Bộ trưởng Quốc phòng",
+      "Phó Thủ tướng",
+      "Ủy viên Bộ Chính trị",
+      "Ủy viên Thường vụ Ban Chấp hành Trung ương Đảng"
+    ]
+  },
+  {
+    "name": "Trần Quang Diệu",
+    "chức vụ": ["Đại Đô đốc", "Đại Tổng quản", "Trấn thủ Nghệ An", "Thiếu phó"]
+  },
+  {
+    "name": "Nguyễn Hải Thần",
+    "chức vụ": [
+      "Phó Chủ tịch Chính phủ lâm thời Việt Nam Dân chủ Cộng hòa (1945)",
+      "Chủ tịch Việt Nam Cách mệnh Đồng minh Hội (1942-1959)"
+    ]
+  },
+  {
+    "name": "Huỳnh Tấn Phát",
+    "chức vụ": [
+      { "ten": "Chủ tịch", "to_chuc": "Cộng hòa miền Nam Việt Nam" },
+      { "ten": "Thủ tướng", "to_chuc": "Cộng hòa miền Nam Việt Nam" },
+      {
+        "ten": "Phó Thủ tướng",
+        "to_chuc": "Cộng hòa Xã hội Chủ nghĩa Việt Nam"
+      },
+      {
+        "ten": "Phó Chủ tịch Hội đồng Nhà nước",
+        "to_chuc": "Cộng hòa Xã hội Chủ nghĩa Việt Nam"
+      }
+    ]
+  },
+  { "name": "Trương Định", "chức vụ": "Bình Tây Đại Nguyên Soái" },
+  {
+    "name": "Nguyễn Huỳnh Đức",
+    "chức vụ": ["Tổng trấn Bắc Thành", "Tổng trấn Gia Định Thành"]
+  },
+  { "name": "Khúc Hạo", "chức vụ": "Tiết độ sứ" },
+  { "name": "Mạc Cửu", "chức vụ": ["Tổng binh", "Đô đốc", "Cửu Ngọc Hầu"] },
+  { "name": "Phạm Hồng Thái", "chức vụ": "Nhà hoạt động cách mạng" },
+  {
+    "name": "Trần Thiện Khiêm",
+    "chức vụ": [
+      "Đại tướng",
+      "Thủ tướng",
+      "Phó Thủ tướng",
+      "Bộ trưởng Quốc phòng",
+      "Tổng Tham mưu trưởng",
+      "Tư lệnh Quân đoàn",
+      "Tham mưu trưởng"
+    ]
+  },
+  {
+    "name": "Nguyễn Chí Thanh",
+    "chức vụ": [
+      "Bí thư Trung ương Cục miền Nam",
+      "Bí thư Quân ủy Miền",
+      "Chính ủy Quân Giải phóng miền Nam"
+    ]
+  },
+  { "name": "Nguyễn Phúc Dương", "chức vụ": "Chúa Nguyễn" },
+  {
+    "name": "Nguyễn Bỉnh Khiêm",
+    "chức vụ": [
+      "Trạng nguyên",
+      "Trình Tuyền hầu",
+      "Trình Quốc công",
+      "Thầy giáo",
+      "Nhà Nho",
+      "Nhà thơ",
+      "Nhà tiên tri"
+    ]
+  },
+  { "name": "Lê Thánh Tông", "chức vụ": "Hoàng đế" },
+  {
+    "name": "Trần Huy Liệu",
+    "chức vụ": [
+      "Bộ trưởng Bộ Tuyên truyền",
+      "Chủ tịch đầu tiên của Hội Khoa học Lịch sử Việt Nam",
+      "Viện sĩ Viện Hàn lâm Khoa học Đông Đức"
+    ]
+  },
+  { "name": "Phan Đình Giót", "chức vụ": "Tiểu đội phó bộ binh" },
+  { "name": "Hoàng Vân", "chức vụ": "Nhạc sĩ" },
+  {
+    "name": "Hoàng Xuân Lãm",
+    "chức vụ": [
+      "Trung tướng",
+      "Tư lệnh Quân đoàn",
+      "Tư lệnh Sư đoàn",
+      "Chỉ huy trưởng Trung đoàn",
+      "Chỉ huy trưởng Chi đội"
+    ]
+  },
+  {
+    "name": "Lê Trọng Tấn",
+    "chức vụ": [
+      "Đại tướng Quân đội nhân dân Việt Nam",
+      "Viện trưởng Học viện Quân sự Cao cấp",
+      "Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam",
+      "Thứ trưởng Bộ Quốc phòng",
+      "Phó Tư lệnh Quân Giải phóng miền Nam"
+    ]
+  },
+  {
+    "name": "Đỗ Mười",
+    "chức vụ": [
+      "Chủ tịch Hội đồng Bộ trưởng",
+      "Tổng Bí thư",
+      "Ủy viên Hội đồng cố vấn Ban Chấp hành Trung ương"
+    ]
+  },
+  { "name": "Vũ Trọng Phụng", "chức vụ": ["Nhà văn", "Nhà báo"] },
+  { "name": "Phan Văn Khải", "chức vụ": "Thủ tướng Chính phủ" },
+  { "name": "Dương Đức Hiền", "chức vụ": "Tổng Bí thư Đảng Dân chủ Việt Nam" },
+  { "name": "Phạm Văn Đồng", "chức vụ": "Thủ tướng" },
+  {
+    "name": "Hoàng Quốc Việt",
+    "chức vụ": [
+      "Bí thư Tổng bộ Việt Minh",
+      "Chủ tịch Tổng Công đoàn Việt Nam",
+      "Viện trưởng Viện Kiểm sát Nhân dân Tối cao",
+      "Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam",
+      "Bí thư Xứ ủy Bắc Kỳ"
+    ]
+  },
+  { "name": "Nguyễn Lộc", "chức vụ": "Sáng Tổ Vovinam" },
+  { "name": "Nguyễn Bá Cẩn", "chức vụ": ["Chủ tịch Hạ viện", "Thủ tướng"] },
+  {
+    "name": "Đặng Nhật Minh",
+    "chức vụ": "Đạo diễn, biên kịch điện ảnh, chính trị gia"
+  },
+  { "name": "Lê Hy Tông", "chức vụ": "Hoàng đế" },
+  {
+    "name": "Phạm Huy Thông",
+    "chức vụ": [
+      "Tiến sĩ Luật khoa",
+      "Tiến sĩ Văn khoa",
+      "Thạc sĩ Sử học",
+      "Giáo sư",
+      "Phó Chủ nhiệm Ủy ban Khoa học Xã hội và Nhân văn",
+      "Viện trưởng Viện Khảo cổ học Việt Nam",
+      "Chủ tịch Hội Khoa học Lịch sử Việt Nam",
+      "Uỷ viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam",
+      "Phó Chủ tịch Quốc hội",
+      "Chủ tịch Uỷ ban Bảo vệ Hoà bình Việt Nam",
+      "Uỷ viên Hội đồng Bảo vệ Hoà bình Thế giới"
+    ]
+  },
+  {
+    "name": "Nguyễn Thiện Thuật",
+    "chức vụ": [
+      "Lãnh tụ cuộc khởi nghĩa Bãi Sậy",
+      "Tán tương",
+      "Sơn phòng chánh sứ"
+    ]
+  },
+  { "name": "Bùi Diễm", "chức vụ": "Đại sứ" },
+  {
+    "name": "Trần Văn Lắm",
+    "chức vụ": [
+      { "tên": "Ngoại trưởng Việt Nam Cộng hòa", "thời gian": "1969 - 1973" },
+      { "tên": "Chủ tịch Thượng Nghị Viện VNCH", "thời gian": "1973 - 1975" }
+    ]
+  },
+  {
+    "name": "Hoàng Xuân Hãn",
+    "chức vụ": [
+      "Nhà sử học",
+      "Nhà ngôn ngữ học",
+      "Nhà nghiên cứu văn hóa",
+      "Nhà giáo dục",
+      "Kỹ sư",
+      "Nhà toán học"
+    ]
+  },
+  {
+    "name": "Dương Bạch Mai",
+    "chức vụ": [
+      "Ủy viên Trung ương Đảng Cộng sản Việt Nam",
+      "Phó Thủ tướng Việt Nam",
+      "Bộ trưởng Ngoại giao Việt Nam",
+      "Trưởng ban Liên lạc Quốc tế của Đảng Lao động Việt Nam",
+      "Ủy viên Đoàn Chủ tịch Quốc hội Việt Nam",
+      "Đại biểu Quốc hội Việt Nam khóa II"
+    ]
+  },
+  {
+    "name": "Văn Tiến Dũng",
+    "chức vụ": [
+      {
+        "ten_chuc_vu": "Đại tướng Quân đội nhân dân Việt Nam",
+        "thoi_gian": "1984 - 2002"
+      },
+      { "ten_chuc_vu": "Bộ trưởng Bộ Quốc phòng", "thoi_gian": "1980 - 1986" },
+      {
+        "ten_chuc_vu": "Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam",
+        "thoi_gian": "1953 - 1978"
+      },
+      {
+        "ten_chuc_vu": "Bí thư Đảng ủy Quân sự Trung ương",
+        "thoi_gian": "1984 - 1986"
+      },
+      {
+        "ten_chuc_vu": "Tư lệnh Chiến dịch giải phóng Sài Gòn - Gia Định",
+        "thoi_gian": "1975"
+      }
+    ]
+  },
+  { "name": "Mạc Thái Tông", "chức vụ": "Hoàng đế" },
+  {
+    "name": "Nguyễn Văn Tường",
+    "chức vụ": [
+      "Thượng thư Bộ Hộ",
+      "Tham tri Bộ Lễ",
+      "Tổng đốc An Tĩnh",
+      "Phụ chính đại thần",
+      "Kỳ Viên Quận Công"
+    ]
+  },
+  {
+    "name": "Nguyễn Lữ",
+    "chức vụ": [
+      "Tiết chế Đông Định Vương",
+      "Bình Tây Đại Nguyên Soái",
+      "Thái úy"
+    ]
+  },
+  {
+    "name": "Ngô Sĩ Liên",
+    "chức vụ": ["Tham gia khởi nghĩa Lam Sơn", "Tu soạn Quốc sử"]
+  },
+  {
+    "name": "Trần Nghệ Tông",
+    "chức vụ": [
+      { "ten": "Hoàng đế", "thoi_gian": "1370 - 1372" },
+      { "ten": "Thái thượng hoàng", "thoi_gian": "1372 - 1394" }
+    ]
+  }
+]

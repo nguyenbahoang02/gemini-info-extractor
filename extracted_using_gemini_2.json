@@ -1,0 +1,201 @@
+[
+  { "name": "Triệu Quang Phục", "chức vụ": "Vua" },
+  {
+    "name": "Dương Thanh",
+    "chức vụ": [
+      "Thứ sử Hoan Châu",
+      "Lãnh đạo khởi nghĩa chống ách đô hộ nhà Đường"
+    ]
+  },
+  { "name": "Khương Công Phụ", "chức vụ": "Tể tướng" },
+  { "name": "Mai Thúc Huy", "chức vụ": "Vua" },
+  { "name": "Khúc Hạo", "chức vụ": "Tiết độ sứ" },
+  { "name": "Khúc Thừa Mỹ", "chức vụ": "Tiết độ sứ" },
+  { "name": "Kiều Thuận", "chức vụ": "Sứ quân" },
+  { "name": "Dương Tam Kha", "chức vụ": ["Vua", "Bình Vương"] },
+  { "name": "Đinh Công Trứ", "chức vụ": ["Thứ sử Hoan Châu", "Tướng quân"] },
+  {
+    "name": "Kiều Công Hãn",
+    "chức vụ": ["Thứ sử Phong Châu", "Kiều Tam Chế", "Sứ quân"]
+  },
+  { "name": "Ngô Xương Ngập", "chức vụ": "Vua" },
+  {
+    "name": "Ngô Xương Văn",
+    "chức vụ": ["Vua", "Hậu Ngô Vương", "Nam Tấn Vương"]
+  },
+  {
+    "name": "Phạm Bạch Hổ",
+    "chức vụ": [
+      "Hào trưởng đất Đằng Châu",
+      "Nha tướng dưới trướng Dương Đình Nghệ",
+      "Tướng nhà Ngô",
+      "Sứ quân trong loạn 12 sứ quân",
+      "Thân vệ Đại tướng quân nhà Đinh"
+    ]
+  },
+  {
+    "name": "Đinh Liễn",
+    "chức vụ": ["Nam Việt Vương", "Tĩnh Hải quân Tiết độ sứ", "An Nam đô hộ"]
+  },
+  {
+    "name": "Đinh Điền",
+    "chức vụ": [
+      "Khai quốc công thần",
+      "Thái úy",
+      "Đại tướng quân",
+      "Tả tướng quân"
+    ]
+  },
+  { "name": "Nguyễn Bặc", "chức vụ": "Định Quốc Công" },
+  { "name": "Đỗ Pháp Thuận", "chức vụ": "Thiền sư" },
+  { "name": "Lê Hoàn", "chức vụ": "Hoàng đế" },
+  { "name": "Lê Long Đinh", "chức vụ": "Ngự Man Vương" },
+  { "name": "Lê Long Đĩnh", "chức vụ": "Hoàng đế" },
+  { "name": "Ngô Chân Lưu", "chức vụ": "Tăng thống" },
+  { "name": "Đào Cam Mộc", "chức vụ": "Tín Nghĩa hầu" },
+  { "name": "Dương Không Lộ", "chức vụ": "Quốc sư" },
+  {
+    "name": "Đoàn Thượng",
+    "chức vụ": [
+      "Hào trưởng vùng Hồng",
+      "Chủ soái sứ quân họ Đoàn ở lộ Hồng Châu",
+      "Tướng quân"
+    ]
+  },
+  { "name": "Lê Thước", "chức vụ": ["Nhà giáo dục", "Nhà biên khảo"] },
+  { "name": "Lê Văn Thịnh", "chức vụ": ["Thái sư", "Trạng nguyên"] },
+  { "name": "Lý Công Uẩn", "chức vụ": "Hoàng đế" },
+  { "name": "Lý Long Trát", "chức vụ": "Hoàng đế" },
+  { "name": "Lý Nhật Tôn", "chức vụ": "Hoàng đế" },
+  { "name": "Lý Thiên Tộ", "chức vụ": "Hoàng đế" },
+  {
+    "name": "Lý Thường Kiệt",
+    "chức vụ": [
+      "Thái úy",
+      "Khai quốc công thần",
+      "Nhập nội điện đô tri Kiểm hiệu Thái úy bình chương Quân quốc trọng sự",
+      "Tả lĩnh quân phủ sự",
+      "Đô tri",
+      "Kiểm hiệu Thái bảo"
+    ]
+  },
+  { "name": "Mạc Hiển Tích", "chức vụ": "Thượng thư" },
+  { "name": "Nguyễn Nộn", "chức vụ": "Sứ quân" },
+  { "name": "Phạm Bỉnh Di", "chức vụ": "Thái úy" },
+  {
+    "name": "Phùng Tá Chu",
+    "chức vụ": ["Thái phó", "Phụ quốc Thái phó", "Hưng Nhân Đại vương"]
+  },
+  {
+    "name": "Tô Hiến Thành",
+    "chức vụ": [
+      "Thái phó bình chương quân quốc trọng sự",
+      "Nhập nội kiểm hiệu thái phó, bình chương quân quốc trọng sự",
+      "Thái úy"
+    ]
+  },
+  {
+    "name": "Từ Lộ",
+    "chức vụ": ["Thiền sư", "Nhà thơ", "Nhà giáo", "Quốc sư", "Quan chức"]
+  },
+  {
+    "name": "Lý Chiêu Hoàng",
+    "chức vụ": ["Nữ hoàng", "Hoàng đế", "Hoàng hậu"]
+  },
+  {
+    "name": "Trần Liễu",
+    "chức vụ": ["Tông thất vương công", "An Sinh vương", "Khâm Minh Đại vương"]
+  },
+  {
+    "name": "Trần Thủ Độ",
+    "chức vụ": [
+      "Thái sư",
+      "Tể tướng",
+      "Quốc thượng phụ",
+      "Điện tiền chỉ huy sứ"
+    ]
+  },
+  { "name": "An Tư", "chức vụ": "Công chúa" },
+  {
+    "name": "Bạch Liêu",
+    "chức vụ": ["Trạng nguyên", "Môn khách", "Quân sư", "Sứ thần"]
+  },
+  { "name": "Dã Tượng", "chức vụ": "Gia tướng, Mãnh tướng" },
+  { "name": "Dương Nhật Lễ", "chức vụ": "Hoàng đế" },
+  { "name": "Đỗ Tử Bình", "chức vụ": "Thái Bảo" },
+  {
+    "name": "Đoàn Nhữ Hài",
+    "chức vụ": [
+      "Ngự sử trung tán",
+      "Tham tri chính sự",
+      "Hành khiển",
+      "Thiên tử chiêu dụ sứ",
+      "Kinh lược Nghệ An"
+    ]
+  },
+  {
+    "name": "Hà Chương",
+    "chức vụ": ["Nghệ sĩ", "Nhạc sĩ", "Tác giả tự truyện"]
+  },
+  {
+    "name": "Hồ Tông Thốc",
+    "chức vụ": "Hàn Lâm học sĩ phụng chỉ kiêm Thẩm hình viện sứ"
+  },
+  { "name": "Huyền Trân", "chức vụ": "Hoàng hậu Chiêm Thành" },
+  {
+    "name": "Lê Phụ Trần",
+    "chức vụ": [
+      "Thái úy",
+      "Nhập nội phán thủ",
+      "Thượng vị hầu",
+      "Thiếu sư",
+      "Kiêm Trừ cung Giáo thụ"
+    ]
+  },
+  {
+    "name": "Mạc Đĩnh Chi",
+    "chức vụ": [
+      "Trạng nguyên",
+      "Quan đại thần",
+      "Nhà ngoại giao",
+      "Tổ tiên trực hệ của các đời Hoàng đế nhà Mạc"
+    ]
+  },
+  {
+    "name": "Nguyễn Bá Tĩnh",
+    "chức vụ": ["Lương y", "Thiền sư", "Tiên thánh của ngành thuốc Nam"]
+  },
+  {
+    "name": "Trần Khâm",
+    "chức vụ": ["Hoàng đế", "Thái thượng hoàng", "Thiền sư"]
+  },
+  {
+    "name": "Trần Khát Chân",
+    "chức vụ": ["Đô tướng", "Nội vệ Thượng tướng quân", "Quan nội hầu"]
+  },
+  { "name": "Trần Kính", "chức vụ": "Hoàng đế" },
+  { "name": "Trần Nguyên Đán", "chức vụ": "Tư đồ" },
+  {
+    "name": "Trần Nhật Duật",
+    "chức vụ": ["Tể tướng", "Thái úy", "Chỉ huy sứ", "Vương"]
+  },
+  { "name": "Trần Phủ", "chức vụ": ["Hoàng đế", "Thái thượng hoàng"] },
+  { "name": "Trần Quang Triều", "chức vụ": "Tư đồ" },
+  {
+    "name": "Trần Quốc Tảng",
+    "chức vụ": ["Thái úy", "Tiết độ sứ", "Chỉ huy sứ", "Đại tướng quân"]
+  },
+  { "name": "Trần Quốc Toản", "chức vụ": "Hoài Văn hầu" },
+  {
+    "name": "Trương Hán Siêu",
+    "chức vụ": [
+      "Hàn lâm học sĩ",
+      "Hành khiển",
+      "Hữu ty lang trung",
+      "Tả ty lang trung",
+      "Thượng thư",
+      "Thái bảo",
+      "Thái phó"
+    ]
+  }
+]

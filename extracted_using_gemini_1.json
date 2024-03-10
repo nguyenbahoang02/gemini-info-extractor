@@ -1,0 +1,421 @@
+[
+  {
+    "name": "Trần Nghệ Tông",
+    "chức vụ": [
+      { "ten": "Hoàng đế", "thoi_gian": "1370-1372" },
+      { "ten": "Thái thượng hoàng", "thoi_gian": "1372-1394" }
+    ]
+  },
+  {
+    "name": "Tôn Đức Thắng",
+    "chức vụ": [
+      "Chủ tịch nước Việt Nam Dân chủ Cộng hòa (1969-1980)",
+      "Chủ tịch nước đầu tiên của Cộng hòa Xã hội Chủ nghĩa Việt Nam (1976-1980)",
+      "Phó Chủ tịch nước (1960-1969)",
+      "Quyền Chủ tịch nước (2 tháng 9 - 22 tháng 9 năm 1969)",
+      "Trưởng ban Thường trực Quốc hội (1955-1960)"
+    ]
+  },
+  {
+    "name": "Phan Liêm",
+    "chức vụ": ["Lãnh tụ nghĩa quân kháng Pháp", "Quan nhà Nguyễn"]
+  },
+  {
+    "name": "Chu Huy Mân",
+    "chức vụ": [
+      "Đại tướng",
+      "Ủy viên Bộ Chính trị",
+      "Phó Chủ tịch Hội đồng Nhà nước",
+      "Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam",
+      "Tư lệnh Quân khu Tây Bắc",
+      "Chính ủy chiến dịch Tây Nguyên",
+      "Chính ủy chiến dịch Huế-Đà Nẵng"
+    ]
+  },
+  { "name": "Lý Chiêu Hoàng", "chức vụ": ["Nữ hoàng", "Hoàng đế"] },
+  {
+    "name": "Nguyễn Đình Đầu",
+    "chức vụ": [
+      "Nhà nghiên cứu",
+      "Chuyên gia đầu ngành về địa lý, lịch sử Việt Nam"
+    ]
+  },
+  {
+    "name": "Nguyễn Đức Hoan",
+    "chức vụ": [
+      "Ủy viên Ban Chấp hành Trung ương Đảng khóa VI, VII, VIII",
+      "Bí thư Tỉnh ủy Quảng Trị (1989-2000)",
+      "Chủ tịch Hội đồng nhân dân tỉnh Quảng Trị (2000-2004)",
+      "Phó Ban Bảo vệ chính trị nội bộ Trung ương",
+      "Ủy viên Ủy ban Kinh tế và Ngân sách của Quốc hội khóa X"
+    ]
+  },
+  {
+    "name": "Nguyễn Xiển",
+    "chức vụ": [
+      "Tổng Thư ký Đảng Xã hội Việt Nam",
+      "Phó Chủ tịch Ủy ban Thường vụ Quốc hội Việt Nam"
+    ]
+  },
+  {
+    "name": "Nguyễn Tri Phương",
+    "chức vụ": [
+      "Tổng chỉ huy quân đội triều đình Nguyễn",
+      "Tổng đốc",
+      "Kinh lược sứ Nam Kỳ",
+      "Tham tri",
+      "Binh bộ Thượng thư",
+      "Đổng nhung quân vụ Biên Hòa"
+    ]
+  },
+  { "name": "Lê Chiêu Tông", "chức vụ": "Hoàng đế" },
+  { "name": "Lê Nguyên Khang", "chức vụ": "Trung tướng" },
+  { "name": "Nguyễn Đức Mậu", "chức vụ": "Nhà thơ, nhà văn quân đội" },
+  {
+    "name": "Mạc Thiên Tứ",
+    "chức vụ": ["Tổng binh Hà Tiên", "Đô đốc", "Thống chế", "Tông Đức Hầu"]
+  },
+  { "name": "Lý Tự Trọng", "chức vụ": "Nhà cách mạng trẻ tuổi" },
+  { "name": "Khúc Thừa Mỹ", "chức vụ": "Tiết độ sứ" },
+  { "name": "Lê Đạt", "chức vụ": "Nhà thơ" },
+  {
+    "name": "Nguyễn Phan Long",
+    "chức vụ": [
+      "Thủ tướng",
+      "Tổng trưởng Nội vụ",
+      "Nhà báo",
+      "Nhà hoạt động chính trị"
+    ]
+  },
+  {
+    "name": "Nguyễn Phúc Nguyên",
+    "chức vụ": ["Chúa Nguyễn thứ hai", "Vua của Đàng Trong"]
+  },
+  {
+    "name": "Phan Huy Quát",
+    "chức vụ": [
+      "Thủ tướng Việt Nam Cộng hòa",
+      "Tổng trưởng Quốc phòng Quốc gia Việt Nam"
+    ]
+  },
+  { "name": "Trần Trọng Kim", "chức vụ": "Thủ tướng" },
+  {
+    "name": "Lê Khả Phiêu",
+    "chức vụ": [
+      "Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam",
+      "Ủy viên Bộ Chính trị",
+      "Thường trực Bộ Chính trị Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam",
+      "Bí thư Quân ủy Trung ương",
+      "Trưởng Ban Bảo vệ Chính trị Nội bộ Trung ương",
+      "Phó Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam",
+      "Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam",
+      "Thượng tướng Quân đội nhân dân Việt Nam"
+    ]
+  },
+  {
+    "name": "Mạc Thái Tổ",
+    "chức vụ": ["Hoàng đế", "Thái thượng hoàng", "Nhiếp chính vương"]
+  },
+  { "name": "Nguyễn Phúc Lan", "chức vụ": "Chúa Nguyễn" },
+  { "name": "Lý Nhân Tông", "chức vụ": "Hoàng đế" },
+  {
+    "name": "Trần Bửu Kiếm",
+    "chức vụ": [
+      "Bộ trưởng Phủ Thủ tướng Chính phủ Cộng hòa Miền Nam Việt Nam",
+      "Ủy viên Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam",
+      "Ủy viên Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam",
+      "Chủ tịch Hội đồng Liên hiệp Các tổ chức Hữu nghị Việt Nam"
+    ]
+  },
+  {
+    "name": "Trần Quỳnh",
+    "chức vụ": [
+      "Đại biểu Quốc hội (khóa I đến khóa VII)",
+      "Phó Chủ tịch Hội đồng Bộ trưởng",
+      "Chủ nhiệm Ủy ban Khoa học và Kỹ thuật Nhà nước",
+      "Ủy viên Trung ương Đảng (khóa IV, V)"
+    ]
+  },
+  {
+    "name": "Trần Văn Giàu",
+    "chức vụ": [
+      "Bí thư Xứ ủy Nam Kỳ",
+      "Chủ tịch Ủy ban kháng chiến Nam Bộ",
+      "Giáo sư",
+      "Nhà khoa học",
+      "Nhà nghiên cứu lịch sử",
+      "Nhà nghiên cứu triết học",
+      "Nhà giáo Nhân dân Việt Nam"
+    ]
+  },
+  { "name": "Trương Văn Sáu", "chức vụ": "Chủ tịch Hội đồng nhân dân tỉnh" },
+  { "name": "Phạm Văn Phú", "chức vụ": "Tư lệnh Quân đoàn II và Quân khu 2" },
+  { "name": "Nguyễn Sáng", "chức vụ": "Danh họa" },
+  { "name": "Phạm Tuyên", "chức vụ": "Nhạc sĩ" },
+  {
+    "name": "Nguyễn Văn Tỵ",
+    "chức vụ": "Tổng thư ký đầu tiên của Hội Mỹ thuật Việt Nam"
+  },
+  { "name": "Phùng Hưng", "chức vụ": "Lãnh tụ" },
+  { "name": "Nguyễn Gia Thiều", "chức vụ": "Nhà thơ" },
+  {
+    "name": "Nguyễn Đình Chiểu",
+    "chức vụ": ["Nhà thơ", "Nhà văn hóa", "Nhà văn yêu nước"]
+  },
+  {
+    "name": "Mạc Đĩnh Chi",
+    "chức vụ": [
+      "Trạng nguyên",
+      "Quan đại thần",
+      "Nhà ngoại giao",
+      "Tổ tiên trực hệ của các đời Hoàng đế nhà Mạc"
+    ]
+  },
+  { "name": "Nguyễn Phúc Tần", "chức vụ": "Chúa Nguyễn thứ tư" },
+  { "name": "Lê Thanh Nghị", "chức vụ": "Phó Thủ tướng" },
+  {
+    "name": "Lê Văn Lương",
+    "chức vụ": [
+      "Ủy viên Bộ Chính trị",
+      "Bí thư Trung ương Đảng",
+      "Trưởng Ban Tổ chức Trung ương",
+      "Bí thư Thành ủy Hà Nội"
+    ]
+  },
+  { "name": "Nguyễn Khuyến", "chức vụ": "Đốc học, Án sát" },
+  { "name": "Lê Thanh Long", "chức vụ": "Đại biểu Quốc hội" },
+  {
+    "name": "Lê Văn Lan",
+    "chức vụ": [
+      "Phó Chủ tịch Hội đồng khoa học Khu di tích lịch sử đền Hùng",
+      "Nhà sáng lập Viện Sử học Việt Nam",
+      "Cố vấn lịch sử chương trình Đường lên đỉnh Olympia",
+      "Cố vấn lịch sử chương trình SV 96",
+      "Chuyên gia giải đáp các vấn đề lịch sử của báo Khoa học và Đời sống",
+      "Cộng tác viên báo Thiếu niên Tiền phong"
+    ]
+  },
+  {
+    "name": "Nguyễn Văn Lập",
+    "chức vụ": "Anh hùng Lực lượng Vũ trang Nhân dân"
+  },
+  {
+    "name": "Trịnh Văn Bô",
+    "chức vụ": "Nhà tư sản theo chủ nghĩa dân tộc, nhà tài trợ cho Chính phủ Cách mạng Lâm thời Việt Nam"
+  },
+  { "name": "Trần Đình Túc", "chức vụ": "Đại thần nhà Nguyễn" },
+  { "name": "Trần Văn Hữu", "chức vụ": "Thủ tướng kiêm Bộ trưởng Ngoại giao" },
+  {
+    "name": "Nguyễn Văn Được",
+    "chức vụ": [
+      "Thượng tướng Quân đội nhân dân Việt Nam",
+      "Chủ tịch Hội Cựu chiến binh Việt Nam",
+      "Đại biểu Quốc hội Việt Nam khóa XIV",
+      "Nguyên Ủy viên Trung ương Đảng khóa VIII, IX, X",
+      "Nguyên Thứ trưởng Bộ Quốc phòng (1998 - 2011)",
+      "Tư lệnh Quân khu 5"
+    ]
+  },
+  {
+    "name": "Đặng Phúc Thông",
+    "chức vụ": "Thứ trưởng Bộ Giao thông công chính"
+  },
+  {
+    "name": "Hoàng Văn Đức",
+    "chức vụ": "Đại biểu Quốc hội, Ủy viên Ban Thường trực Quốc hội"
+  },
+  {
+    "name": "Đỗ Bá Tỵ",
+    "chức vụ": [
+      "Đại tướng Quân đội nhân dân Việt Nam",
+      "Phó Chủ tịch Quốc hội khóa XIV",
+      "Ủy viên Ủy ban Thường vụ Quốc hội",
+      "Đại biểu Quốc hội Việt Nam khóa XIV",
+      "Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam",
+      "Thứ trưởng Bộ Quốc phòng",
+      "Ủy viên Đảng đoàn Quốc hội",
+      "Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XII",
+      "Chủ tịch Nhóm Nghị sỹ hữu nghị Việt - Trung"
+    ]
+  },
+  { "name": "Lê Mã Lương", "chức vụ": "Thiếu tướng" },
+  {
+    "name": "Trưng Trắc",
+    "chức vụ": [
+      "Nữ vương",
+      "Anh hùng dân tộc",
+      "Lãnh đạo cuộc khởi nghĩa chống ách đô hộ nhà Đông Hán",
+      "Nữ quân chủ đầu tiên trong lịch sử Việt Nam",
+      "Nữ vương đầu tiên của chế độ phong kiến Việt Nam"
+    ]
+  },
+  { "name": "Trưng Nhị", "chức vụ": ["Nữ Phó Vương", "Nữ Thủ Lĩnh"] },
+  {
+    "name": "Nguyễn Như Hoạt",
+    "chức vụ": [
+      "Trung tướng",
+      "Tư lệnh Quân khu Thủ đô",
+      "Giám đốc Học viện Quốc phòng",
+      "Anh hùng lực lượng vũ trang nhân dân"
+    ]
+  },
+  { "name": "Nguyễn Quyết", "chức vụ": "Nguyên Phó Chủ tịch nước" },
+  { "name": "Nguyễn Hữu Hạnh", "chức vụ": "Chuẩn tướng" },
+  {
+    "name": "Nguyễn Mạnh Cầm",
+    "chức vụ": [
+      "Ủy viên Bộ Chính trị",
+      "Đại biểu Quốc hội",
+      "Phó Thủ tướng Chính phủ",
+      "Bộ trưởng Bộ Ngoại giao"
+    ]
+  },
+  {
+    "name": "Bùi Nam Hà",
+    "chức vụ": [
+      "Thiếu tướng",
+      "Phó Tổng thanh tra Quân đội",
+      "Giám đốc Học viện Hậu cần",
+      "Phó Giám đốc Học viện Quốc phòng",
+      "Cục trưởng Cục Nhà trường",
+      "Phó Tư lệnh Tham mưu trưởng Mặt trận Tây nguyên (B3)",
+      "Tham mưu phó Quân khu Tả ngạn",
+      "Quân khu 5"
+    ]
+  },
+  { "name": "Nguyễn Ngọc Trân", "chức vụ": "Đại biểu Quốc hội" },
+  { "name": "Phạm Xuân Thệ", "chức vụ": "Trung tá Chính ủy Lữ đoàn 203" },
+  {
+    "name": "Nguyễn Văn Tình",
+    "chức vụ": [
+      "Phó Đô đốc",
+      "Phó Tư lệnh Binh chủng Đặc công",
+      "Bí thư Đảng ủy",
+      "Chính ủy Quân chủng Hải quân",
+      "Ủy viên Trung ương Đảng khóa IX",
+      "Ủy viên Quân ủy Trung ương"
+    ]
+  },
+  { "name": "Trần Đức Anh Sơn", "chức vụ": "Nhà nghiên cứu" },
+  {
+    "name": "Nguyễn Thị Mai Hoa",
+    "chức vụ": [
+      "Phó Chủ nhiệm Ủy ban Văn hóa, giáo dục của Quốc hội",
+      "Phó Chủ tịch Nhóm nghị sĩ hữu nghị Việt Nam - México",
+      "Đại biểu Quốc hội Việt Nam khóa 15"
+    ]
+  },
+  {
+    "name": "Nguyễn Thanh Hồng",
+    "chức vụ": "Ủy viên thường trực Ủy ban Quốc phòng và An ninh của Quốc hội, Phó Chủ tịch Nhóm nghị sĩ hữu nghị Việt Nam - New Zealand, đại biểu Quốc hội Việt Nam khóa 14 tỉnh Bình Dương"
+  },
+  {
+    "name": "Đinh Xuân Lâm",
+    "chức vụ": [
+      {
+        "ten_chuc_vu": "Phó Chủ tịch Hội Khoa học Lịch sử Việt Nam",
+        "khoa": "Lịch sử",
+        "thoi_gian": "Khóa IV"
+      },
+      {
+        "ten_chuc_vu": "Chủ tịch Hội đồng khoa học",
+        "to_chuc": "Trung tâm UNESCO Thông tin tư liệu lịch sử và văn hóa Việt Nam"
+      }
+    ]
+  },
+  {
+    "name": "Nguyễn Tiến Hưng",
+    "chức vụ": [
+      "Tổng trưởng Kế hoạch của Chính phủ Việt Nam Cộng hòa",
+      "Cố vấn của Tổng thống Nguyễn Văn Thiệu",
+      "Giáo sư tại Đại học Howard (Washington, D.C., Hoa Kỳ)"
+    ]
+  },
+  { "name": "Trần Thừa", "chức vụ": ["Thái thượng hoàng", "Nhiếp chính"] },
+  { "name": "Trần Thuận Tông", "chức vụ": "Hoàng đế" },
+  {
+    "name": "Trần Nhật Duật",
+    "chức vụ": ["Thái úy", "Tể tướng", "Chỉ huy quân sự"]
+  },
+  { "name": "Triệu Việt Vương", "chức vụ": "Vua" },
+  { "name": "Trần Duệ Tông", "chức vụ": "Hoàng đế" },
+  { "name": "Trịnh Doanh", "chức vụ": "Chúa Trịnh" },
+  { "name": "Bùi Trang Chước", "chức vụ": "Họa sĩ bậc thầy" },
+  { "name": "Ngô Xương Xí", "chức vụ": "Sứ quân" },
+  { "name": "Lý Huệ Tông", "chức vụ": "Hoàng đế" },
+  {
+    "name": "Trần Văn Đôn",
+    "chức vụ": ["Trung tướng", "Phó Thủ tướng", "Bộ trưởng Quốc phòng"]
+  },
+  { "name": "Dương Tam Kha", "chức vụ": ["Vua", "Bình Vương"] },
+  {
+    "name": "Trần Quốc Tảng",
+    "chức vụ": ["Thái úy", "Tiết độ sứ An Bang", "Chỉ huy quân đội"]
+  },
+  { "name": "Trần Dụ Tông", "chức vụ": "Hoàng đế" },
+  { "name": "Trần Liễu", "chức vụ": ["An Sinh Vương", "Khâm Minh Đại Vương"] },
+  { "name": "Trịnh Kiểm", "chức vụ": "Thái quốc công" },
+  { "name": "Dương Nhật Lễ", "chức vụ": "Hoàng đế" },
+  {
+    "name": "Nguyễn Khoa Nam",
+    "chức vụ": "Tư lệnh Quân đoàn IV và Quân khu 4"
+  },
+  { "name": "Trần Quốc Toản", "chức vụ": "Hoài Văn hầu" },
+  { "name": "Mạc Toàn", "chức vụ": "Hoàng đế" },
+  {
+    "name": "Trịnh Tùng",
+    "chức vụ": [
+      "Chúa Trịnh",
+      "Đô nguyên suý tổng quốc chính thượng phụ Bình An vương",
+      "Tiết chế các dinh thủy bộ",
+      "Thái úy",
+      "Nhập nội Phụ chính",
+      "Điện tiền chỉ huy sứ"
+    ]
+  },
+  { "name": "Lê Văn Thịnh", "chức vụ": "Thái sư" },
+  { "name": "Trịnh Giang", "chức vụ": "Chúa Trịnh" },
+  {
+    "name": "Trần Tự Khánh",
+    "chức vụ": [
+      "Thái úy",
+      "Phụ chính",
+      "Chỉ huy sứ Thiên Trường",
+      "Nội thị phán thủ"
+    ]
+  },
+  {
+    "name": "Nguyễn Châu",
+    "chức vụ": [
+      "Giáo sư vật lý",
+      "Phó chủ tịch Hội Vật lý Việt Nam (khóa 3, 4, 5)",
+      "Chủ tịch Hội Khoa học Vật liệu Việt Nam (2003-2008)"
+    ]
+  },
+  {
+    "name": "Nguyễn Chích",
+    "chức vụ": "Đệ nhất mưu sĩ, Nhập Nội Đô Đốc, Nhập Nội Tư Không, Bình Chương Sự"
+  },
+  { "name": "Lý Anh Tông", "chức vụ": "Hoàng đế" },
+  { "name": "Nguyễn Phúc Luân", "chức vụ": "Vương tử" },
+  {
+    "name": "Trần Quốc Khang",
+    "chức vụ": ["Tĩnh Quốc vương", "Tĩnh Quốc đại vương"]
+  },
+  { "name": "Ngô Du", "chức vụ": ["Trung tướng", "Tư lệnh Quân đoàn"] },
+  {
+    "name": "Lương Văn Can",
+    "chức vụ": [
+      "Nhà cách mạng",
+      "Nhà giáo",
+      "Nhà văn",
+      "Nhà kinh doanh",
+      "Sáng lập viên Đông Kinh Nghĩa Thục"
+    ]
+  },
+  { "name": "Phan Đình Phùng", "chức vụ": "Lãnh đạo" },
+  { "name": "Lý Tòng Bá", "chức vụ": "Chuẩn tướng" },
+  { "name": "Chử Đồng Tử", "chức vụ": "Thánh" },
+  { "name": "Hoàng Thiều Hoa", "chức vụ": "Nữ tướng" },
+  { "name": "Triệu Quang Phục", "chức vụ": "Vua" }
+]
